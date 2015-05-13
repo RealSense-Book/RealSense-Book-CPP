@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>184EA593-AD33-431B-B567-5BA1D9913815</string>
+	<key>IDESourceControlProjectName</key>
+	<string>example</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F59B8D2A-A310-44C8-84C0-C81061E4CE3D</key>
+		<string>ssh://github.com/neilmendoza/ofxGpuParticles.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>example/example.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F59B8D2A-A310-44C8-84C0-C81061E4CE3D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/neilmendoza/ofxGpuParticles.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F59B8D2A-A310-44C8-84C0-C81061E4CE3D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F59B8D2A-A310-44C8-84C0-C81061E4CE3D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxGpuParticles</string>
+		</dict>
+	</array>
+</dict>
+</plist>
