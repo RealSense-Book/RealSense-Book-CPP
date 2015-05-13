@@ -1,0 +1,16 @@
+Scans: 22
+
+Read: 0.000000s (0.000000s total)
+NewScan: 0.009685s (0.213076s total)
+Normal: 0.001315s (0.028940s total)
+Gray: 0.000000s (0.000000s total)
+AlignTo: 0.006194s (0.136268s total)
+Project: 0.005994s (0.131874s total)
+Update: 0.026910s (0.592031s total)
+DepthRange: 0.000415s (0.009123s total)
+Prev: 0.001109s (0.024390s total)
+Export: 0.000501s (0.011021s total)
+Frame: 0.070988s (1.561739s total)
+
+Tracking Failures: 0
+First Failure: 0
